@@ -1,5 +1,5 @@
-package route
+package main
 
 var (
-    Age int=24;
+	Age int = 24
 )
